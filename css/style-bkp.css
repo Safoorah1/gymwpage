@@ -1,0 +1,91 @@
+/* <style>
+        body {
+            margin: 0px;
+            padding:0px;
+            background: url('imgs.jgp.webp');
+         }
+        /* .left {
+             border: 2px ; color:aqua;
+             display: inline-block;
+             position:absolute;
+             left: 23px;
+             top: 12px;
+             font-size: 15px;
+             font-family: 'Dancing Script', 'cursive';
+             color:rosybrown; */
+        }
+        /* .left img {
+            width: 60px;
+            height: 53px;
+        }
+        .mid { 
+            display: block;
+            width:43% ;
+            margin: 20px auto;
+            border: 2px; color:rgb(66, 214, 145);
+        }
+        .right {
+            border:2px; color:cyan;
+            display:inline-block;
+            position:absolute;
+            right:34px;
+            top:20px;
+    
+        }
+        .navbar li {
+            display: inline-block;
+            font-size: 14px;
+        } */
+        /* .navbar li a {
+            color: darkkhaki;
+            text-decoration: none;
+            padding: 5px 4px;
+        }
+        .navbar li a:hover, .navbar li a:active {
+         text-decoration: underline;
+         color: grey; */
+        }
+        .btn {
+            /* margin:0px 40px; */
+            /* padding: 1px 1px; */
+            /* border:2px solid khaki; */
+            border-radius: 5px;
+            font-size: 10px;
+            font-family: 'Courier New', Courier, monospace;
+            cursor:pointer;
+        
+        }
+        .btn:hover
+        {
+            color:darkslateblue;
+        }
+        .container {
+            /* border:2px solid lightgrey; */
+            margin:15px 50px;
+            padding:75px;
+            width:33%;
+            border-radius: 28px;
+            height:30px;
+            color:cadetblue;
+        }
+        .form-group {
+            /* border:2px solid; */
+            padding:3px 3px;
+            margin:2px 2px;
+            top:20px}
+        .btnk {
+            margin:0px 30px;
+            padding: 5px;
+        }
+        .footer {
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2px;
+            }
+            .list {display:flex;
+            justify-content: space-between;
+            align-items: center;
+    
+            }
+    </style> */
